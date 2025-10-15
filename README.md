@@ -21,7 +21,9 @@ The goals of this reading group are:
 ## Organisation
 
 We will meet weekly (most likely at the **LMU Central Building**).  
-The exact time is yet to be decided — you can submit your availability [here](https://timeful.app/e/Cad69).
+The exact time is yet to be decided — **you can submit your availability [here](https://timeful.app/e/Cad69).**
+
+**For any questions please contact me by email: [A.Melnik@campus.lmu.de](A.Melnik@campus.lmu.de)**
 
 Each week, we will hold a session covering a topic in category theory.  
 There will be an associated reading for each session, but participants are *not required* to read it in advance.
@@ -52,7 +54,7 @@ The two main references are **Goldblatt's [Topoi](https://projecteuclid.org/eboo
 In this part, we apply the machinery developed in Part I to problems in specific domains —  
 for instance, philosophy, foundations of mathematics, logic, and physics. 
 
-You can submitt your topics of interrest [here](https://forms.gle/yqcQ2SDF9KUzzCFa6)
+**You can submitt your topics of interrest [here](https://forms.gle/yqcQ2SDF9KUzzCFa6)**
 
 **Topics:**  
 _To be announced_

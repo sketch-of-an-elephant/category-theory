@@ -1,5 +1,3 @@
-# Category Theory Reading Group
-
 Welcome! This repository hosts materials for the **Category Theory Reading Group**.
 
 ---

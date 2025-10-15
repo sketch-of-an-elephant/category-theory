@@ -35,7 +35,7 @@ The readings are divided into two parts:
 ## Part I: Basics of Category Theory
 
 In this part, we introduce the definition of categories and explore some essential categorical constructions.  
-The two main references are **Goldblatt** and **Awodey**.
+The two main references are **Goldblatt's [Topoi](https://projecteuclid.org/ebooks/books-by-independent-authors/Topoi-The-Categorial-Analysis-of-Logic/toc/bia/1403013939)** and **Awodey's [Category Theory](https://www.hlaszny.com/booksAndPapers/buckets/b9_mathematics/CategoryTheory.pdf)**.
 
 **Topics:**
 - The definition of a category, its philosophical motivations, and examples  
@@ -50,7 +50,9 @@ The two main references are **Goldblatt** and **Awodey**.
 ## Part II: Applications of Category Theory
 
 In this part, we apply the machinery developed in Part I to problems in specific domains —  
-for instance, philosophy, foundations of mathematics, logic, and physics.
+for instance, philosophy, foundations of mathematics, logic, and physics. 
+
+You can submitt your topics of interrest [here](https://forms.gle/yqcQ2SDF9KUzzCFa6)
 
 **Topics:**  
 _To be announced_

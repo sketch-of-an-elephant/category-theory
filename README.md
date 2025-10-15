@@ -21,7 +21,7 @@ The goals of this reading group are:
 We will meet weekly (most likely at the **LMU Central Building**).  
 The exact time is yet to be decided — **you can submit your availability [here](https://timeful.app/e/Cad69).**
 
-**For any questions please contact me by email: [A.Melnik@campus.lmu.de](A.Melnik@campus.lmu.de)**
+**For any questions please contact me by email: [A.Melnik@campus.lmu.de](mailto:A.Melnik@campus.lmu.de)**
 
 Each week, we will hold a session covering a topic in category theory.  
 There will be an associated reading for each session, but participants are *not required* to read it in advance.

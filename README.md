@@ -2,17 +2,31 @@
 
 Welcome! This repository hosts materials for the **Category Theory Reading Group**.
 
+---
+
 ## Motivation
 
-Category theory is an amaizingly elegant tool.
+Category theory is an amazingly elegant framework for systematic abstract thinking.  
+For some, it offers an alternative foundation of mathematics beyond set theory;  
+for others, it provides the most natural setting for formalizing physics;  
+and for yet others, it serves as the language connecting logic and computation.  
+— and the list goes on.
 
+The goals of this reading group are:
+1. To become acquainted with the basic principles of category theory.  
+2. To explore how these principles can be applied to problems in your own area of interest.
+
+---
 
 ## Organisation
 
-We will meet weekly (probably at the LMU Central building) the time is to yet to be settled.
+We will meet weekly (most likely at the **LMU Central Building**).  
+The exact time is yet to be decided — you can submit your availability [here](https://timeful.app/e/Cad69).
 
-Each week we will hold a session covering some topic in category theory.  
-There will be a reading associated with each session, but participants are *not required* to read it in advance. I am prepared to lead all of the sessions, but you are very welcome to volunteer — especially for **Part II**, where you could show how Category Theory might apply to your area of interest.
+Each week, we will hold a session covering a topic in category theory.  
+There will be an associated reading for each session, but participants are *not required* to read it in advance.
+
+I am prepared to lead all of the sessions, but volunteers are very welcome — especially for **Part II**, where you could show how Category Theory applies to your field.
 
 The readings are divided into two parts:
 
@@ -20,7 +34,8 @@ The readings are divided into two parts:
 
 ## Part I: Basics of Category Theory
 
-In this part, we cover the definition of categories and some essential categorical constructions. The two main references are Goldbaltt and Awodey
+In this part, we introduce the definition of categories and explore some essential categorical constructions.  
+The two main references are **Goldblatt** and **Awodey**.
 
 **Topics:**
 - The definition of a category, its philosophical motivations, and examples  
@@ -34,11 +49,10 @@ In this part, we cover the definition of categories and some essential categoric
 
 ## Part II: Applications of Category Theory
 
-In this part, we take the machinery covered in Part I and look at applications to problems in specific domains — e.g. philosophy, foundations of mathematics, logic, and physics.
+In this part, we apply the machinery developed in Part I to problems in specific domains —  
+for instance, philosophy, foundations of mathematics, logic, and physics.
 
 **Topics:**  
 _To be announced_
 
 ---
-
-

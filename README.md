@@ -1,5 +1,7 @@
 Welcome! This repository hosts materials for the **Category Theory Reading Group**.
 
+Here are the [Notes](./Categroy_theory_reading_group.pdf)
+
 ---
 
 ## Motivation

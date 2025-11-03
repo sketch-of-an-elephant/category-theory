@@ -20,8 +20,7 @@ The goals of this reading group are:
 
 ## Organisation
 
-We will meet weekly (most likely at the **LMU Central Building**).  
-The exact time is yet to be decided — **you can submit your availability [here](https://timeful.app/e/Cad69).**
+We will meet weekly on Wednesdays at 13:00 (most likely at the **LMU Central Building**).  
 
 **For any questions please contact me by email: [A.Melnik@campus.lmu.de](mailto:A.Melnik@campus.lmu.de)**
 

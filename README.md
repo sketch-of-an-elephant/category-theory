@@ -20,12 +20,18 @@ The goals of this reading group are:
 
 ## Organisation
 
-We will meet weekly on Wednesdays at 13:00 (most likely at the **LMU Central Building**).  
+We will meet weekly on **Wednesdays at 13:00** in the group room of the philosophy library, that is at Geschwister-Scholl-Platz 01 **room D321**.  
+
+You get there by entering trough the [main entrance of the library](https://www.lmu.de/raumfinder/index.html#/building/bw0000/map?room=000901252A#%2Fbuilding%2Fbw0000%2Fmap%3Froom=000901252A%23%2Fbuilding%2Fbw0000%2Fmap%3Froom=000901252A%23%2Fbuilding%2Fbw0000%2Fmap%3Froom=000901252A). And then proceed to the [room on the top floor](https://www.lmu.de/raumfinder/index.html#/building/bw0000/map?room=000903471C)
+
+The setions also are in parallel held online, this is [the link for the Google meets meeting](https://meet.google.com/zit-toen-nzb)
+
+There is also a Whatsapp group for the reading group, here is an [invite link](https://chat.whatsapp.com/F1HZY19O1vTAqXXH0FAb0Q) for you to join.
 
 **For any questions please contact me by email: [A.Melnik@campus.lmu.de](mailto:A.Melnik@campus.lmu.de)**
 
 Each week, we will hold a session covering a topic in category theory.  
-There will be an associated reading for each session, but participants are *not required* to read it in advance.
+There will be an associated [reading](./Categroy_theory_reading_group.pdf) for each session, but participants are *not required* to read it in advance.
 
 I am prepared to lead all of the sessions, but volunteers are very welcome — especially for **Part II**, where you could show how Category Theory applies to your field.
 
@@ -41,10 +47,11 @@ The two main references are **Goldblatt's [Topoi](https://projecteuclid.org/eboo
 **Topics:**
 - The definition of a category, its philosophical motivations, and examples  
 - Initial objects and products  
-- Exponential objects  
 - Functors  
-- Natural transformations  
-- Adjointness  
+- Natural transformations
+- Universal constructions via functors 
+- Adjointness
+- Exponential objects
 
 ---
 
